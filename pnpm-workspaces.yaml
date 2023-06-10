@@ -1,5 +1,5 @@
 packages:
-  - 'rsd-home'
-  - 'rsd-software'
-  - 'rsd-projects'
-  - 'rsd-core'
+- rsd-home
+- rsd-software
+- rsd-projects
+- rsd-core

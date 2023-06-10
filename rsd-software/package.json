@@ -1,5 +1,5 @@
 {
-  "name": "rsd-software",
+  "name": "@rsd/software",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@rsd/core": "workspace:^",
+    "@emotion/react": "11.10.6",
+    "@emotion/server": "11.10.0",
+    "@emotion/styled": "11.10.6",
+    "@mui/icons-material": "5.10.16",
+    "@mui/material": "5.10.17",
+    "@tailwindcss/line-clamp": "0.4.2",
+    "@tailwindcss/typography": "0.5.9",
     "@types/node": "20.2.6",
     "@types/react": "18.2.10",
     "@types/react-dom": "18.2.4",

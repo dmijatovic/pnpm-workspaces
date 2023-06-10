@@ -31,3 +31,11 @@ packages:
   - 'rsd-projects'
   - 'rsd-core'
 ```
+
+## Install/link local modules
+
+```bash
+# add rsd-core package to rsd-software within workspace
+pnpm add @rsd/core --filter @rsd/software --workspace
+```
+
