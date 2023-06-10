@@ -1,0 +1,13 @@
+{
+  "name": "pnpm-workspaces",
+  "version": "1.0.0",
+  "description": "Research Software Directory frontend modules",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "pnpm dev",
+    "build": "pnpm build"
+  },
+  "keywords": ["RSD"],
+  "author": "Dusan Mijatovic",
+  "license": "Apache 2.0"
+}
